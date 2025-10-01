@@ -74,7 +74,7 @@ I run [The Literary Review Hub](https://theliteraryreviewhub.wordpress.com/), a 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chiadikao)
 - 📧 dikaobenwa@gmail.com
-- 🌍 Based in Vienna | Open to internships & part-time roles
+- 🌍 Based in Warsaw | Open to internships & full-time roles, remotely and on-site
 
 > "Code with clarity, secure with intention, and build for impact."
 > “Learning by building, growing by sharing.”
