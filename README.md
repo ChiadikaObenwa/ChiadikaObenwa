@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chiadika Angel Obenwa
 
-🎓 I'm a Master's student in Computer Science at the University of Vienna, passionate about building secure, scalable, and data-driven systems. With a strong foundation in cloud computing, cybersecurity, and data analytics, I enjoy solving real-world problems at the intersection of software engineering and research.
+🎓 I'm a results-oriented Computer Science graduate, passionate about building secure, scalable, and data-driven systems. With a strong foundation in cloud computing, cybersecurity, and data analytics, I enjoy solving real-world problems at the intersection of software engineering and research.
 
 🔐 I’ve tackled advanced cybersecurity challenges and academic research including:
 - Public Key Cryptography with GPG
