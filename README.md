@@ -66,7 +66,7 @@ Beyond tech, I’m a passionate reader and storyteller. I enjoy:
 - 🎧 Listening to soul-stirring music (favorites: **[Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc)** and **[Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg)**)
 - 🎬 Watching amazing, thought-provoking movies
 
-I run [The Literary Review Hub](https://theliteraryreviewhub.wordpress.com/), a personal blog for book reviews and literary reflections. I’m currently working on revamping its UI, uploading more content, and increasing engagement after a brief pause due to academic commitments.
+I run [The Literary Review Hub](https://theliteraryreviewhub.wordpress.com/), a personal blog for book reviews and literary reflections. I’m currently working on revamping its UI, uploading more content, and increasing engagement after a brief pause due to academic and professional commitments.
 
 ---
 
