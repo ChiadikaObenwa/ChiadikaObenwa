@@ -2,18 +2,23 @@
 
 🎓 I'm a results-oriented Computer Science graduate, passionate about building secure, scalable, and data-driven systems. With a strong foundation in cloud computing, cybersecurity, and data analytics, I enjoy solving real-world problems at the intersection of software engineering and research.
 
-🔐 I’ve tackled advanced cybersecurity challenges and academic research including:
+🔐 I’ve tackled advanced challenges and academic research including:
 - Public Key Cryptography with GPG
-- WiFi Sniffing & WPA2 handshake cracking
-- Substitution Cipher & One-Time Pad key reuse attacks
+- WiFi Sniffing & WPA2 Handshake Cracking
+- Substitution Cipher & One-Time Pad Key Reuse Attacks
 - SQL Injection and XSS Exploits
-- Race Conditions in credit systems
-- Linux privilege escalation and misconfigurations
+- Race Conditions in Credit Systems
+- Linux Privilege Escalation and Misconfigurations
+- Enhancing Zero-Shot Model Learning Approaches and Applications in Artificial Intelligence
+- Brain-Computer Interfaces (BCIs) in Human-Computer Interaction (HCI): Advancement in Brain-Controlled Devices
+- Cryptographic Techniques Implemented in a Real-Time Voting System
+- Investigating the Impact of Cognitive Load on User-Friendly Interface Design: Strategies, Guidelines, and Usability Evaluation
 
 ☁️ I’ve also conducted cloud optimization research and DevOps projects including:
-- Dynamic resource allocation in multi-cloud environments using ML
-- CI/CD pipelines using GitHub Actions, Jenkins, Terraform & Docker
-- Hands-on AWS, Kubernetes, Ansible, and containerized app deployments
+- Dynamic Resource Allocation in Multi-Cloud Environments Using Machine Learning
+- Cloud Computing Research on Optimizing Resource Allocation and Scalability
+- CI/CD Pipelines using GitHub Actions, Jenkins, Terraform & Docker
+- Hands-on AWS, Kubernetes, Ansible, and Containerized Application Deployments
 
 📊 Data-savvy with experience in Power BI, Tableau, SQL, and Jupyter Notebooks, I blend data analytics with backend engineering and automation.
 
